@@ -104,6 +104,14 @@ body {
     transition: .25s;
 }
 
+.menu-lateral__link:hover {
+    color: #FFFFFF;
+}
+
+.menu-lateral__link--ativo:hover {
+    color: #FFFFFF
+}
+
 .menu-lateral--ativo {
     left: 0;
     transition: .25s;
