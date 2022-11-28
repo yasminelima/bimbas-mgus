@@ -403,3 +403,18 @@ body {
         grid-area: secao-produtos;
     }
 }
+
+
+.final {
+    text-align: center;   
+    margin: auto;
+}
+
+p#yas a {
+    text-decoration: none;
+    }
+        
+p#yas a:hover {
+    text-decoration: underline;
+    }
+
