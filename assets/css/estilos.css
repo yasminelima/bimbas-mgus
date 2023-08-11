@@ -9,7 +9,7 @@ body {
     color: #FFFFFF;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     body {
         display: grid;
         grid-template-columns: auto 1fr;
@@ -43,7 +43,7 @@ body {
     display: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     .cabecalho {
         background-color: #1D232A;
         display: grid;
@@ -170,7 +170,7 @@ body {
     content: "\e90a";
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     .menu-lateral {
         position: static;
         width: 200px;
@@ -195,7 +195,7 @@ body {
     font-weight: 700;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     .principal {
         display: grid;
         grid-template-columns: auto 1fr auto;
@@ -300,7 +300,7 @@ body {
     display: none;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     .cartao--destaque {
         margin-bottom: 0;
     }
@@ -374,7 +374,7 @@ body {
     gap: 16px;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     .secao {
         grid-template-columns: repeat(4, 1fr);
     }
