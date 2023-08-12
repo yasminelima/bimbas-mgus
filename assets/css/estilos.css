@@ -411,6 +411,10 @@ body {
     }
 }
 
+.cartao__conteudo__formzinho {
+    display: inline;
+    width: 100%;
+}
 
 .final {
     text-align: center;   
