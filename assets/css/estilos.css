@@ -421,6 +421,27 @@ body {
     margin: auto;
 }
 
+.h3titulo {
+    font-size: 30px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    color: #d1c4e9;
+}
+
+.textjust {
+    display: block;
+}
+
+.textjust1 {
+    display: block;
+    text-decoration: underline;
+}
+
+.textjust2 {
+    font-weight: bold;
+}
+
+
 p#yas a {
     text-decoration: none;
     }
