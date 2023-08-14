@@ -445,6 +445,13 @@ body {
     font-weight: bold;
 }
 
+.textjust3 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    padding-top: 15px;
+}
 
 p#yas a {
     text-decoration: none;
