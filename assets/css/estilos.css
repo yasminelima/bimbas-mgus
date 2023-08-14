@@ -482,6 +482,17 @@ body {
     line-height: 20px;
 }
 
+.textjust6 {
+    font-size: 30px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    color: #d1c4e9;
+    display: block;
+    grid-column: span 2;
+    text-align: justify;
+    line-height: 20px;
+}
+
 p#yas a {
     text-decoration: none;
     }
