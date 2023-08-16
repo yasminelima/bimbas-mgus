@@ -474,6 +474,32 @@ body {
     padding-top: 15px;
 }
 
+.textjust44 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    display: block;
+    text-decoration: underline;
+    color: var(--color3);
+}
+
+.textjust444 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    display: block;
+}
+
+.textjust4444 {
+    font-weight: 800;
+}
+
+.imagem2 {
+    width: 100%;
+    margin: auto;
+}
+
 .textjust5 {
     display: block;
     font-size: 0.9rem;
