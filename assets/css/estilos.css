@@ -230,6 +230,14 @@ body {
     background-color: var(--color7);
 }
 
+.cartao1 {
+    width: 100%;
+    height: 500px;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: var(--color7);
+}
+
 .cartao__imagem--desktop {
     display: none;
 }
