@@ -232,7 +232,6 @@ body {
 
 .cartao1 {
     width: 100%;
-    height: 500px;
     border-radius: 15px;
     overflow: hidden;
     background-color: var(--color7);
@@ -527,7 +526,6 @@ body {
 
 .imagem3 {
     width: 100%;
-    height: 50%;
 }
 
 textjust5 {
@@ -556,4 +554,3 @@ p#yas a {
 p#yas a:hover {
     text-decoration: underline;
     }
-
