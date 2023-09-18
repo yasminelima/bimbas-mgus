@@ -253,6 +253,13 @@ body {
     grid-column: span 2;
 }
 
+.cartao__perfil3 {
+    color: #95999C;
+    font-size: 0.9rem;
+    grid-column: span 2;
+    padding-left: 15px;
+}
+
 .cartao__perfil1 {
     color: #95999C;
     font-size: 0.9rem;
